@@ -1,0 +1,26 @@
+@media (max-width: 1020px) {
+    .home-block h3 {
+        font-size: 70px;
+    }
+    .home-block {
+        margin-top: 10%;
+    }
+    .footer-logo {
+        display: none;
+    }
+}
+
+@media (max-width: 834px) {
+    .home-block h3 {
+        font-size: 50px;
+    }
+    .feature-item {
+        width: 100%;
+        margin-bottom: 30px;
+        height: 100%;
+        flex-wrap: wrap;
+    }
+    .linie {
+        display: none;
+    }
+}
